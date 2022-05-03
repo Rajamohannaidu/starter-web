@@ -21,4 +21,4 @@ Adding a line for git rebase for the demo . updating a file
 
 ## Copyright
 
-2014 Git. Training. All rights Reserved
+2022 Git. Training. All rights Reserved
